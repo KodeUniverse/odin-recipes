@@ -1,1 +1,2 @@
-# odin-recipes
+# Recipes HTML Project
+## The Odin Project
